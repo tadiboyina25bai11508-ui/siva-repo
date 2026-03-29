@@ -1,3 +1,4 @@
+Siva-repo
 # Hi, I'm Tadiboyina Siva Gangadhara rao
 
 ## About me 
@@ -17,4 +18,5 @@ I hope to learn more about artificial intelligence, coding, machine learning, an
 - GitHub Collaboration
 
 ## Connect With Me
-- LinkedIn: *![WhatsApp Image 2026-03-28 at 3 55 14 PM](https://github.com/user-attachments/assets/1ec59f76-c3a0-4164-b923-5b31b8f72acf)
+- LinkedIn:www.linkedin.com/in/
+tadiboyina-siva-gangadhar-rao-6131333bb
